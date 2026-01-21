@@ -1,4 +1,3 @@
-Music (arm64-v8a): 8.10.52  
 Music (arm-v7a): 8.10.52  
 YouTube (arm64-v8a): 20.14.43  
 YouTube (arm-v7a): 20.14.43  
